@@ -51,10 +51,11 @@ Additionally, we trained a **Random Forest model** to improve performance and co
 - **Accuracy**: `88.94%`
 - **F1-Score (Class 1 - Subscribed)**: `0.51`
 
-```text
+
 Confusion Matrix:
 [[6846  457]
  [ 454  481]]
+ 
 
 ## How to Use
 
