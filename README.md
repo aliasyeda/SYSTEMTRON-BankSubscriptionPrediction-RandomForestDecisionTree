@@ -69,3 +69,11 @@ Get the prediction: 1 = subscribed, 0 = not subscribed.
 
 ## 📌 Note
 This project started with Random Forest to enhance prediction accuracy  then  later included  Decision Tree model as per task instructions.
+
+## 👨‍💻 Author
+
+Developed by
+**Syeda Alia Samia**  
+GitHub:[Syeda Alia Samia](https://github.com/your-github-username)
+
+
